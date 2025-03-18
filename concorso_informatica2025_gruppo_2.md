@@ -1,7 +1,7 @@
 ## Details on partecipation and initial project ideas
 **Contest Title**: "La realtà che vorrei - Di chi fidarsi?"  
-**Project Title**:  "Informazioni a portata di filo"
-**Description**:  A simulation turned game of cup phones; how information can travel along a network of them, louder and clearer or distorted and wrong.
+**Project Title**:  "Informazioni a portata di filo"  
+**Description**:  A simulation turned game of cup phones; how information can travel along a network of them, louder and clearer or distorted and wrong.  
 ### Group Info  
 **School**:  ITIS Guglielmo Marconi, Verona  
 **Class**:  3Gi  
