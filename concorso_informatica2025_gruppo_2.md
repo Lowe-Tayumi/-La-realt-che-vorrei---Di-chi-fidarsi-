@@ -16,6 +16,6 @@
 _TO DO : add tasks for each member + who the scrum master is_
 
 **Workspaces**:
-1. [Trello Bulletin Board]() 
+1. [Trello Bulletin Board](https://trello.com/invite/b/67d9a3a82a1cf681eb35f2bb/ATTI53cbcec559af3170f022b3ff6208deb7585EDD11/gruppo-2-informatica) 
 2. [Project on Code.org]()  
 _Add links in between brackets_  
