@@ -8,10 +8,11 @@
 **Date**:  04/2025  
 
 **Members**:
-* Gasparini Alice - 
+* Gasparini Alice -
+* Katunayakage Giovanni -
 * Lowe Tayumi - 
 * Paglia Kristian - 
-* Solinas Federico -  
+* Solinas Federico -
 _TO DO : add tasks for each member + who the scrum master is_
 
 **Workspaces**:
