@@ -9,11 +9,11 @@
 **Date**:  16/04/2025  
 
 **Members**:
-* Gasparini Alice - pianificazione, grafica
-* Katunayakage Giovanni - codice, grafica
-* Lowe Tayumi - scrum master, codice
-* Paglia Kristian - codice, pianificazione
-* Solinas Federico - pianificazione, codice
+* Gasparini Alice - groundwork (planning), graphics and setting
+* Katunayakage Giovanni - code, graphics
+* Lowe Tayumi - scrum master, code
+* Paglia Kristian - code, groundwork
+* Solinas Federico - code, groundwork
 
 **Workspaces**:
 1. [Trello Bulletin Board](https://trello.com/invite/b/67d9a3a82a1cf681eb35f2bb/ATTI53cbcec559af3170f022b3ff6208deb7585EDD11/gruppo-2-informatica) 
