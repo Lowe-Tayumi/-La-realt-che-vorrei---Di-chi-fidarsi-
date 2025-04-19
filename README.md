@@ -1,2 +1,7 @@
-# -La-realt-che-vorrei---Di-chi-fidarsi-
-Project for Competition
+# -La-realta'-che-vorrei---Di-chi-fidarsi-
+Gruppo 2:
+- Lowe Tayumi
+- Gasparini Alice
+- Paglia Kristian
+- Perera Giovanni
+- Solinas Federico
