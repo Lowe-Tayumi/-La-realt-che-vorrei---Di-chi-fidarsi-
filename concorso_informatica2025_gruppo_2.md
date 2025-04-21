@@ -17,9 +17,9 @@
 
 **Workspaces**:
 1. [Trello Bulletin Board](https://trello.com/invite/b/67d9a3a82a1cf681eb35f2bb/ATTI53cbcec559af3170f022b3ff6208deb7585EDD11/gruppo-2-informatica) 
-2. [Project on Code.org](https://studio.code.org/projects/gamelab/0pTArjaPobcq-t2HkMXAMVNSfvEOWjEyiQdbj8CMBWw)
+2. [Project on Delightex](https://studio.code.org/projects/gamelab/0pTArjaPobcq-t2HkMXAMVNSfvEOWjEyiQdbj8CMBWw)
 3. [Github Repository](https://github.com/Lowe-Tayumi/-La-realt-che-vorrei---Di-chi-fidarsi-)
 
-**Link to project on Delightex**:  
+**Link to demo**:  
 [The Fake Newz Maze](https://edu.delightex.com/JCT-VWV)  
 
